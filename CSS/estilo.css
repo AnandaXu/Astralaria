@@ -1,0 +1,62 @@
+
+body{
+    background:  rgb(162, 238, 232); rgb(255, 208, 119)
+ }
+ 
+ 
+  h1{ 
+      
+   border: 2px solid greenyellow;
+   border-radius: 60px;
+   background: plum;
+   text-align: center;
+   margin: 100px 400px 50px 400px;
+   padding: 30px;
+   
+      
+      
+  }
+ 
+ p{
+     color: rgb(88, 12, 88);
+     font-size: 25px;
+     text-align:center;
+    
+ 
+ }
+ 
+ 
+ 
+ .exemplo{
+ 
+     height: 300px;
+     border: 2px dashed rgb(11, 247, 137);
+     border-radius: 80px;
+     font-size: 100px;
+     text-align: center;
+     margin: 20px 200px 20px 200px;
+     
+     color: antiquewhite;
+     background: purple url("../imgCSS/roxo.jpg") no-repeat center;
+ }
+ 
+ .botao{
+    margin-left: 200px;
+    font-size: 30px;
+    background: plum;
+    color: black;
+    padding: 20px;
+    border-radius: 15px;
+    text-decoration: none;
+    border: ;
+ 
+ }
+ 
+ .botao:hover{
+     background: rgb(223, 3, 149);
+ }
+ 
+ 
+ 
+ 
+ 
